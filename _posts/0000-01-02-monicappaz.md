@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+“Hurricane Katrina? More like Hurricane Tortilla”
 Use the left arrow to go back!
